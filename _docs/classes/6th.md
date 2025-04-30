@@ -73,9 +73,9 @@ Assign to sections
 
 | Name     | Flavor | Occasion | Price |
 | :------- | :----- | :------- | :---- |
-| Sally    |        |          |       | 
-| Michael  |        |          |       | 
-| Emma     |        |          |       | 
+| Sally    |chocolate|graduation|35.00 | 
+| Michael  |Vanilla |Farwell party|37.00| 
+| Emma     |Carrot  |Birthday |39.00  | 
 
 ----
 
